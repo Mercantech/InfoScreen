@@ -137,7 +137,7 @@ class WeekSchedule {
         // Add time column header
         const timeHeader = document.createElement('div');
         timeHeader.className = 'header-cell time-header';
-        timeHeader.innerHTML = '<i class="fas fa-clock"></i> Tid';
+        timeHeader.innerHTML = 'Tid';
         tableHeader.appendChild(timeHeader);
 
         // Add day headers
@@ -156,15 +156,10 @@ class WeekSchedule {
             const dayHeader = document.createElement('div');
             dayHeader.className = 'header-cell day-header';
             dayHeader.innerHTML = `
-                <div class="day-name">
-                    <i class="${dayIcons[index]}"></i>
-                    ${dayNames[index]}
-                </div>
                 <div class="day-info">
-                    <div class="day-date">${formattedDate}</div>
-                    <div class="day-status">
-                        <i class="${this.getStatusIcon(dayStatus)}" title="${this.getStatusText(dayStatus)}"></i>
-                    </div>
+                    <i class="${this.getStatusIcon(dayStatus)}" title="${this.getStatusText(dayStatus)}"></i>
+                    <span class="day-name">${dayNames[index]}</span>
+                    <span class="day-date">${formattedDate}</span>
                 </div>
             `;
             tableHeader.appendChild(dayHeader);

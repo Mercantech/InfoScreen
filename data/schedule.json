@@ -90,8 +90,8 @@
         "13:45-15:15": ""
       },
       "wednesday": {
-        "08:00-09:30": "Udfyld data - Vi har nu lavet en stærk model som burde kunne håndtere mange værelser og bookinger. Lad os teste det ved at fylde hotellet op med det antal værelser som det skal have! Udover det kigger vi også på nogle design principper inden for repository og struktur",
-        "10:00-11:30": "",
+        "08:00-09:30": "",
+        "10:00-11:30": "Udfyld data - Vi har nu lavet en stærk model som burde kunne håndtere mange værelser og bookninger. Lad os teste det ved at fylde hotellet op med det antal værelser som det skal have! Udover det kigger vi også på nogle design principper inden for repository og struktur",
         "12:00-13:30": "Mathias ved GF2",
         "13:45-15:15": "Mathias ved GF2"
       },
@@ -140,6 +140,222 @@
       "friday": {
         "08:00-09:30": "3. Release gennem GitHub. Mulighed for repetition af pensum",
         "10:00-11:30": "",
+        "12:00-13:30": "FRI",
+        "13:45-15:15": "FRI"
+      }
+    },
+    "5": {
+      "dates": {
+        "start": "2025-09-01",
+        "end": "2025-09-05"
+      },
+      "monday": {
+        "08:00-09:30": "Finpudsning eller udvidelse af projekt",
+        "10:00-11:30": "Finpudsning eller udvidelse af projekt",
+        "12:00-13:30": "Mathias ved GF1",
+        "13:45-15:15": "Mathias ved GF1"
+      },
+      "tuesday": {
+        "08:00-09:30": "Oplæg om ekstra emner og projektstyring",
+        "10:00-11:30": "Finpudsning eller udvidelse af projekt",
+        "12:00-13:30": "Mathias ved GF1",
+        "13:45-15:15": "Mathias ved GF1"
+      },
+      "wednesday": {
+        "08:00-09:30": "H2 - Mail-Service eller H2 - Postman",
+        "10:00-11:30": "Finpudsning eller udvidelse af projekt",
+        "12:00-13:30": "Mathias ved GF2",
+        "13:45-15:15": "Mathias ved GF2"
+      },
+      "thursday": {
+        "08:00-09:30": "Finpudsning eller udvidelse af projekt",
+        "10:00-11:30": "Finpudsning eller udvidelse af projekt",
+        "12:00-13:30": "Finpudsning eller udvidelse af projekt",
+        "13:45-15:15": "Finpudsning eller udvidelse af projekt"
+      },
+      "friday": {
+        "08:00-09:30": "4. Release gennem GitHub. Mulighed for repetition af pensum",
+        "10:00-11:30": "",
+        "12:00-13:30": "FRI",
+        "13:45-15:15": "FRI"
+      }
+    },
+    "6": {
+      "dates": {
+        "start": "2025-09-08",
+        "end": "2025-09-12"
+      },
+      "monday": {
+        "08:00-09:30": "Opsætning af Windows 2022 Server samt Active Directory - H2 - Windows Server 2022 og AD",
+        "10:00-11:30": "Opsætning af jeres eget AD",
+        "12:00-13:30": "Mathias ved GF1",
+        "13:45-15:15": "Mathias ved GF1"
+      },
+      "tuesday": {
+        "08:00-09:30": "Roller, brugere og tilladelser med AD",
+        "10:00-11:30": "Opsætning af Grupper, brugere og tilladelser i et AD Forest",
+        "12:00-13:30": "Mathias ved GF1",
+        "13:45-15:15": "Mathias ved GF1"
+      },
+      "wednesday": {
+        "08:00-09:30": "Loginsystem og integration op mod local AD",
+        "10:00-11:30": "Vi bruger LDAP til at forbinde til vores AD",
+        "12:00-13:30": "Mathias ved GF2",
+        "13:45-15:15": "Mathias ved GF2"
+      },
+      "thursday": {
+        "08:00-09:30": "Krav til Admin dashboard på frontend. (Mulighed for at lave en ekstra frontend i et andet framework)",
+        "10:00-11:30": "Admin dashboard op mod vores AD med fokus på login",
+        "12:00-13:30": "Admin dashboard op mod vores AD med fokus på login",
+        "13:45-15:15": "Admin dashboard op mod vores AD med fokus på login"
+      },
+      "friday": {
+        "08:00-09:30": "5. Release gennem GitHub. Mulighed for repetition af pensum",
+        "10:00-11:30": "",
+        "12:00-13:30": "FRI",
+        "13:45-15:15": "FRI"
+      }
+    },
+    "7": {
+      "dates": {
+        "start": "2025-09-15",
+        "end": "2025-09-19"
+      },
+      "monday": {
+        "08:00-09:30": "Status på projekter",
+        "10:00-11:30": "Projekt",
+        "12:00-13:30": "Projekt",
+        "13:45-15:15": "Projekt"
+      },
+      "tuesday": {
+        "08:00-09:30": "Rundt om bordet med fremvisning af release 5",
+        "10:00-11:30": "Projekt",
+        "12:00-13:30": "Projekt",
+        "13:45-15:15": "Projekt"
+      },
+      "wednesday": {
+        "08:00-09:30": "H2 - Permissions and roles",
+        "10:00-11:30": "Projekt",
+        "12:00-13:30": "Mathias ved GF2",
+        "13:45-15:15": "Mathias ved GF2"
+      },
+      "thursday": {
+        "08:00-09:30": "Projekt",
+        "10:00-11:30": "Projekt",
+        "12:00-13:30": "Projekt",
+        "13:45-15:15": "Projekt"
+      },
+      "friday": {
+        "08:00-09:30": "6. Release gennem GitHub. Mulighed for repetition af pensum samt status på projekter!",
+        "10:00-11:30": "Projekt",
+        "12:00-13:30": "FRI",
+        "13:45-15:15": "FRI"
+      }
+    },
+    "8": {
+      "dates": {
+        "start": "2025-09-22",
+        "end": "2025-09-26"
+      },
+      "monday": {
+        "08:00-09:30": "Design af Ticket System - H2 - Ticket System",
+        "10:00-11:30": "Design og opbyggelse af Ticket System i EFCore",
+        "12:00-13:30": "Mathias ved GF1",
+        "13:45-15:15": "Mathias ved GF1"
+      },
+      "tuesday": {
+        "08:00-09:30": "Intro til Signal R",
+        "10:00-11:30": "Design og opbyggelse af Ticket System i EFCore og Signal R / WebSocket",
+        "12:00-13:30": "Mathias ved GF1",
+        "13:45-15:15": "Mathias ved GF1"
+      },
+      "wednesday": {
+        "08:00-09:30": "Projekt",
+        "10:00-11:30": "Projekt",
+        "12:00-13:30": "Mathias ved GF2",
+        "13:45-15:15": "Mathias ved GF2"
+      },
+      "thursday": {
+        "08:00-09:30": "Projekt",
+        "10:00-11:30": "Projekt",
+        "12:00-13:30": "Projekt",
+        "13:45-15:15": "Projekt"
+      },
+      "friday": {
+        "08:00-09:30": "7. Release gennem GitHub. Mulighed for repetition af pensum samt status på projekter!",
+        "10:00-11:30": "Projekt",
+        "12:00-13:30": "FRI",
+        "13:45-15:15": "FRI"
+      }
+    },
+    "9": {
+      "dates": {
+        "start": "2025-09-29",
+        "end": "2025-10-03"
+      },
+      "monday": {
+        "08:00-09:30": "Færdiggørelse af projekt",
+        "10:00-11:30": "Færdiggørelse af projekt",
+        "12:00-13:30": "Færdiggørelse af projekt",
+        "13:45-15:15": "Færdiggørelse af projekt"
+      },
+      "tuesday": {
+        "08:00-09:30": "Færdiggørelse af projekt",
+        "10:00-11:30": "Færdiggørelse af projekt",
+        "12:00-13:30": "Færdiggørelse af projekt",
+        "13:45-15:15": "Færdiggørelse af projekt"
+      },
+      "wednesday": {
+        "08:00-09:30": "Færdiggørelse af projekt",
+        "10:00-11:30": "Færdiggørelse af projekt",
+        "12:00-13:30": "Færdiggørelse af projekt",
+        "13:45-15:15": "Færdiggørelse af projekt"
+      },
+      "thursday": {
+        "08:00-09:30": "Færdiggørelse af projekt",
+        "10:00-11:30": "Færdiggørelse af projekt",
+        "12:00-13:30": "Færdiggørelse af projekt",
+        "13:45-15:15": "Færdiggørelse af projekt"
+      },
+      "friday": {
+        "08:00-09:30": "Færdiggørelse af projekt",
+        "10:00-11:30": "Færdiggørelse af projekt",
+        "12:00-13:30": "FRI",
+        "13:45-15:15": "FRI"
+      }
+    },
+    "10": {
+      "dates": {
+        "start": "2025-10-06",
+        "end": "2025-10-10"
+      },
+      "monday": {
+        "08:00-09:30": "Færdiggørelse af projekt og eksamen!",
+        "10:00-11:30": "Færdiggørelse af projekt og eksamen!",
+        "12:00-13:30": "Færdiggørelse af projekt og eksamen!",
+        "13:45-15:15": "Færdiggørelse af projekt og eksamen!"
+      },
+      "tuesday": {
+        "08:00-09:30": "Færdiggørelse af projekt og eksamen!",
+        "10:00-11:30": "Færdiggørelse af projekt og eksamen!",
+        "12:00-13:30": "Færdiggørelse af projekt og eksamen!",
+        "13:45-15:15": "Færdiggørelse af projekt og eksamen!"
+      },
+      "wednesday": {
+        "08:00-09:30": "Færdiggørelse af projekt og eksamen!",
+        "10:00-11:30": "Færdiggørelse af projekt og eksamen!",
+        "12:00-13:30": "Færdiggørelse af projekt og eksamen!",
+        "13:45-15:15": "Færdiggørelse af projekt og eksamen!"
+      },
+      "thursday": {
+        "08:00-09:30": "Færdiggørelse af projekt og eksamen!",
+        "10:00-11:30": "Færdiggørelse af projekt og eksamen!",
+        "12:00-13:30": "Færdiggørelse af projekt og eksamen!",
+        "13:45-15:15": "Færdiggørelse af projekt og eksamen!"
+      },
+      "friday": {
+        "08:00-09:30": "Færdiggørelse af projekt og eksamen!",
+        "10:00-11:30": "Færdiggørelse af projekt og eksamen!",
         "12:00-13:30": "FRI",
         "13:45-15:15": "FRI"
       }
