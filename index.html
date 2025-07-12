@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="da">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
+    <title>Uge Skema - H2 Forløb</title>
+    <link rel="stylesheet" href="styles.css?v=1.0.1">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <div class="header-content">
+                <h1><i class="fas fa-calendar-alt"></i> Uge Skema</h1>
+                <p class="subtitle">H2 Forløb Database</p>
+            </div>
+            <div class="header-info">
+                <div class="wifi-info">
+                    <i class="fas fa-wifi"></i>
+                    <span>MAGS-OLC / Merc1234!</span>
+                </div>
+                <div class="week-selector">
+                    <select id="weekSelect">
+                        <option value="1">Uge 1</option>
+                        <option value="2">Uge 2</option>
+                        <option value="3">Uge 3</option>
+                        <option value="4">Uge 4</option>
+                    </select>
+                </div>
+                <div class="week-navigation">
+                    <button id="prevWeek" class="nav-btn">
+                        <i class="fas fa-chevron-left"></i>
+                    </button>
+                    <button id="nextWeek" class="nav-btn">
+                        <i class="fas fa-chevron-right"></i>
+                    </button>
+                </div>
+                <div class="current-week-info">
+                    <div class="week-badge">
+                        <span id="currentWeek">Uge 3</span>
+                    </div>
+                    <div class="date-range">
+                        <span id="dateRange">18. aug - 22. aug 2025</span>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <main class="main-content">
+
+            <div class="schedule-grid" id="scheduleGrid">
+                <!-- Schedule will be populated by JavaScript -->
+            </div>
+
+            <div class="loading" id="loading">
+                <div class="spinner"></div>
+                <p>Indlæser ugeprogram...</p>
+            </div>
+
+            <div class="no-data" id="noData" style="display: none;">
+                <i class="fas fa-calendar-times"></i>
+                <h3>Intet program fundet</h3>
+                <p>Der er ikke noget program tilgængeligt for denne uge.</p>
+            </div>
+        </main>
+
+        <footer class="footer">
+            <p>&copy; 2025 H2 Forløb Database</p>
+            <p class="last-updated">Sidst opdateret: <span id="lastUpdated">15. januar 2024</span></p>
+            <p class="source-link">
+                <a href="https://mercantec.notion.site/h2-2025?source=copy_link" target="_blank" rel="noopener noreferrer">
+                    <i class="fas fa-external-link-alt"></i> Kilde: Mercantec Notion
+                </a>
+            </p>
+        </footer>
+    </div>
+
+    <script src="script.js?v=1.0.1"></script>
+</body>
+</html>

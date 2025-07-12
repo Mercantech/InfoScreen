@@ -1,0 +1,153 @@
+{
+  "weeks": {
+    "1": {
+      "dates": {
+        "start": "2025-08-04",
+        "end": "2025-08-08"
+      },
+      "monday": {
+        "08:00-09:30": "H2 - Projekt beskrivelse",
+        "10:00-11:30": "Grupper, udvælge case og beskrive!",
+        "12:00-13:30": "H2 - API kald fra klienten og udvidet OOP - Her laver vi Visualisere Benzinpriser opgaven!",
+        "13:45-15:15": "Visualisere Benzinpriser færdig! Måske et kort kig på Bilbasen demo med API"
+      },
+      "tuesday": {
+        "08:00-09:30": "Grupper, projekt struktur mm.",
+        "10:00-11:30": "Selvstændigt projekt ud fra selvvalgt API - Selvvalgt API - Videoaflevering",
+        "12:00-13:30": "Selvvalgt API fortsat",
+        "13:45-15:15": "Selvvalgt API fortsat"
+      },
+      "wednesday": {
+        "08:00-09:30": "H2 - API kald fra klienten og udvidet OOP",
+        "10:00-11:30": "Selvvalgt API fortsat",
+        "12:00-13:30": "Selvvalgt API fortsat",
+        "13:45-15:15": "Selvvalgt API fortsat"
+      },
+      "thursday": {
+        "08:00-09:30": "Selvvalgt API Projekt",
+        "10:00-11:30": "Selvvalgt API fortsat",
+        "12:00-13:30": "Selvvalgt API fortsat",
+        "13:45-15:15": "Selvvalgt API fortsat"
+      },
+      "friday": {
+        "08:00-09:30": "Selvvalgt API fortsat + Oplæg omkring H2 - GitHub",
+        "10:00-11:30": "Video aflevering eller fremlæggelser!",
+        "12:00-13:30": "FRI",
+        "13:45-15:15": "FRI"
+      }
+    },
+    "2": {
+      "dates": {
+        "start": "2025-08-11",
+        "end": "2025-08-15"
+      },
+      "monday": {
+        "08:00-09:30": "H2 - Byg en API med EFCore",
+        "10:00-11:30": "Implementering af API, EFCore og PostgresDB i projekt",
+        "12:00-13:30": "Vi designer vores første modeller og dermed også tabeller! Vi gør dem klar til JWT og BCrypt som vi skal have om i morgen!",
+        "13:45-15:15": "Implementering af API, EFCore og PostgresDB i projekt"
+      },
+      "tuesday": {
+        "08:00-09:30": "Vi skal begynde at bygge vores API op!",
+        "10:00-11:30": "Vi snakker omkring hashing af password samt roller og grupper i en software løsning!",
+        "12:00-13:30": "Implementering i Projekt",
+        "13:45-15:15": "Implementering i Projekt"
+      },
+      "wednesday": {
+        "08:00-09:30": "Implementering i Projekt og læse op på emnet for i dag!",
+        "10:00-11:30": "Implementering i Projekt",
+        "12:00-13:30": "Hvordan håndtere vi bookinger? Tjek tilgængelighed, flytte datoer og aflyse eksisterende bookninger!",
+        "13:45-15:15": "Implementering i Projekt"
+      },
+      "thursday": {
+        "08:00-09:30": "Opsætning af Relationer og de 3 hoved tabeller i vores system! Vi laver et UML diagram, som løbende skal vedligeholdes! Jeg anbefaler at bruge Mermaid!",
+        "10:00-11:30": "Implementering i Projekt",
+        "12:00-13:30": "1-1 Samtaler",
+        "13:45-15:15": "Implementering i Projekt"
+      },
+      "friday": {
+        "08:00-09:30": "Vi følger op på ugen og introducere JWT",
+        "10:00-11:30": "Implementering i Projekt og 1. Release af backend!",
+        "12:00-13:30": "FRI",
+        "13:45-15:15": "FRI"
+      }
+    },
+    "3": {
+      "dates": {
+        "start": "2025-08-18",
+        "end": "2025-08-22"
+      },
+      "monday": {
+        "08:00-09:30": "Vi snakker om hvordan man dokumentere ens API bedst muligt - her kommer vi til at bruge XML struktur",
+        "10:00-11:30": "1:1 samtaler",
+        "12:00-13:30": "1:1 samtaler",
+        "13:45-15:15": "1:1 samtaler"
+      },
+      "tuesday": {
+        "08:00-09:30": "Selvstændigt gruppe arbejde",
+        "10:00-11:30": "Vi snakker lidt API sikkerhed og fejlhåndtering",
+        "12:00-13:30": "",
+        "13:45-15:15": ""
+      },
+      "wednesday": {
+        "08:00-09:30": "Udfyld data - Vi har nu lavet en stærk model som burde kunne håndtere mange værelser og bookinger. Lad os teste det ved at fylde hotellet op med det antal værelser som det skal have! Udover det kigger vi også på nogle design principper inden for repository og struktur",
+        "10:00-11:30": "",
+        "12:00-13:30": "Mathias ved GF2",
+        "13:45-15:15": "Mathias ved GF2"
+      },
+      "thursday": {
+        "08:00-09:30": "Filtrering med EFCore, med Linq. Avanceret querying i REST API. Versionering af API. Vi tager også et kig på hvordan vi kan deploye vores API på en server",
+        "10:00-11:30": "",
+        "12:00-13:30": "",
+        "13:45-15:15": ""
+      },
+      "friday": {
+        "08:00-09:30": "2. Release gennem GitHub. Mulighed for repetition af teori!",
+        "10:00-11:30": "",
+        "12:00-13:30": "FRI",
+        "13:45-15:15": "FRI"
+      }
+    },
+    "4": {
+      "dates": {
+        "start": "2025-08-25",
+        "end": "2025-08-29"
+      },
+      "monday": {
+        "08:00-09:30": "Repetition af HTTP kald med Blazor",
+        "10:00-11:30": "",
+        "12:00-13:30": "Mathias ved GF1",
+        "13:45-15:15": "Mathias ved GF1"
+      },
+      "tuesday": {
+        "08:00-09:30": "Skalerbar services' i frontend udvikling og PWA med Blazor",
+        "10:00-11:30": "",
+        "12:00-13:30": "Mathias ved GF1",
+        "13:45-15:15": "Mathias ved GF1"
+      },
+      "wednesday": {
+        "08:00-09:30": "Loginsystem med API og State management i Blazor",
+        "10:00-11:30": "",
+        "12:00-13:30": "Mathias ved GF2",
+        "13:45-15:15": "Mathias ved GF2"
+      },
+      "thursday": {
+        "08:00-09:30": "Mathias I Odense",
+        "10:00-11:30": "Mathias I Odense",
+        "12:00-13:30": "Mathias I Odense",
+        "13:45-15:15": "Mathias I Odense"
+      },
+      "friday": {
+        "08:00-09:30": "3. Release gennem GitHub. Mulighed for repetition af pensum",
+        "10:00-11:30": "",
+        "12:00-13:30": "FRI",
+        "13:45-15:15": "FRI"
+      }
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2024-01-15",
+    "version": "1.0",
+    "description": "H2 Forløb Ugeprogram Database"
+  }
+} 
